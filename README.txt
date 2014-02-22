@@ -1,7 +1,2 @@
-git init
-git add nameofprogram
-git commit -m 'first commit'
-git remote add origin https://github.com/chrislukehart/HelloWorldPython.git
-git pull origin master
-git push origin master
+Works in Python 2.7 and 3
 
